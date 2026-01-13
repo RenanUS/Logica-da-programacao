@@ -34,4 +34,5 @@ if(quantXP <= 1000)
         {
             console.log(avisoDeNivel + "Radiante.")
         }
-        
+
+console.log("Parabéns pela sua conquista!")
