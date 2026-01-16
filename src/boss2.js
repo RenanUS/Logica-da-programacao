@@ -1,7 +1,7 @@
 let vitorias
 let derrotas
 
-console.log("Seu rank atual é: " + getRankAtual(150,42))
+console.log("O seu rank atual é: " + getRankAtual(150,42))
 
 function getRankAtual(vitorias, derrotas)
 {
